@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="py-8 px-4 text-center">
       <p className="text-xs text-muted-foreground">
-        ©{yearRange} • Developed by{' '}
+        ©{yearRange} • Developed With 🌋 by{' '}
         <span className="text-primary font-medium">Ridz Coder</span>
       </p>
     </footer>
