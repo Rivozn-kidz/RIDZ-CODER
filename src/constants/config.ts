@@ -4,7 +4,7 @@ export const SITE_CONFIG = {
   name: 'Ridz Coder',
   title: 'Ridz Coder — Developer Portfolio',
   description: 'Full-stack developer portfolio. React, TypeScript, Node.js, and more.',
-  email: 'r**********@gmail.com',
+  email: 'ridzcoder@gmail.com',
   timezone: 'Africa/Kampala',
 } as const;
 
@@ -15,17 +15,17 @@ export const SOCIAL_LINKS: SocialLink[] = [
 ];
 
 export const TECH_STACK: TechItem[] = [
-  { name: 'React', icon: '⚛️' },
-  { name: 'TypeScript', icon: '🔷' },
-  { name: 'Node.js', icon: '🟢' },
-  { name: 'Python', icon: '🐍' },
-  { name: 'Tailwind CSS', icon: '🎨' },
+  { name: 'React', icon: '🌋' },
+  { name: 'TypeScript', icon: '🏔️' },
+  { name: 'Node.js', icon: '🪀' },
+  { name: 'Python', icon: '🧚' },
+  { name: 'Tailwind CSS', icon: '🍂' },
   { name: 'MongoDB', icon: '🍃' },
-  { name: 'PostgreSQL', icon: '🐘' },
-  { name: 'Git', icon: '🔀' },
+  { name: 'PostgreSQL', icon: '❄️' },
+  { name: 'Git', icon: '☄️' },
   { name: 'Docker', icon: '🐳' },
   { name: 'Firebase', icon: '🔥' },
-  { name: 'Next.js', icon: '▲' },
+  { name: 'Next.js', icon: '🦁' },
   { name: 'Supabase', icon: '⚡' },
 ];
 
