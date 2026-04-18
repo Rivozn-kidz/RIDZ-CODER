@@ -2,6 +2,7 @@ import Scene3D from '@/components/features/Scene3D';
 import MenuButton from '@/components/layout/MenuButton';
 import ProfileSection from '@/components/features/ProfileSection';
 import SocialLinks from '@/components/features/SocialLinks';
+import StatsSection from '@/components/features/StatsSection';
 import TimeBattery from '@/components/features/TimeBattery';
 import TechStackSection from '@/components/features/TechStackSection';
 import ProjectsSection from '@/components/features/ProjectsSection';
@@ -17,6 +18,7 @@ export default function Home() {
         <ProfileSection />
         <SocialLinks />
         <TimeBattery />
+        <StatsSection />
         <TechStackSection />
         <ProjectsSection />
         <ContactSection />

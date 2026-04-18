@@ -1,3 +1,4 @@
+import { Download } from 'lucide-react';
 import avatarImg from '@/assets/avatar.jpg';
 import { useTypingEffect } from '@/hooks/useTypingEffect';
 import { TYPING_ROLES } from '@/constants/config';
@@ -35,6 +36,16 @@ export default function ProfileSection() {
         <span>{typedRole}</span>
         <span className="animate-blink text-primary font-light">|</span>
       </div>
+
+      {/* Resume download */}
+      <a
+        href="/resume.pdf"
+        download
+        className="mt-5 glow-button inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-primary text-primary-foreground text-sm font-semibold transition-all duration-200 hover:brightness-110"
+      >
+        <Download className="size-4" />
+        Download Resume
+      </a>
     </section>
   );
 }
