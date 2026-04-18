@@ -4,7 +4,7 @@ export const SITE_CONFIG = {
   name: 'Ridz Coder',
   title: 'Ridz Coder — Developer Portfolio',
   description: 'Full-stack developer portfolio. React, TypeScript, Node.js, and more.',
-  email: 'ridzcoder@gmail.com',
+  email: 'r**********@gmail.com',
   timezone: 'Africa/Kampala',
 } as const;
 
@@ -33,7 +33,7 @@ export const TYPING_ROLES = ['Developer', 'Designer', 'Creator', 'Innovator'];
 
 export const AUTH_CREDENTIALS = {
   email: 'ridzcoder@gmail.com',
-  password: 'Ridz@19',
+  password: 'Ridzcoder@19',
 } as const;
 
 export const NAV_SECTIONS = [
