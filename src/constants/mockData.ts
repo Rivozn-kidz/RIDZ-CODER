@@ -3,12 +3,12 @@ import type { Project } from '@/types';
 export const DEFAULT_PROJECTS: Project[] = [
   {
     id: '1',
-    title: 'E-Commerce Platform',
-    description: 'A full-stack e-commerce application with real-time inventory management, payment processing, and admin dashboard.',
-    techs: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    url: 'https://github.com/ridzcoder/ecommerce',
+    title: 'NEBULA MD',
+    description: 'A Secure Whatsapp Chat Bot. Fast and a Smart Whatsapp Bot packed with cool features.',
+    techs: ['React', 'Node.js', 'MongoDB'],
+    url: 'https://github.com/ridzcoder/NEBULA-MD',
     buttonText: 'View Project',
-    imageUrl: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=375&fit=crop',
+    imageUrl: 'https://files.catbox.moe/t1ae76.jpg?w=600&h=375&fit=crop',
     sortOrder: 1,
     createdAt: '2024-01-15',
     updatedAt: '2024-01-15',
