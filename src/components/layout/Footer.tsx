@@ -4,32 +4,24 @@ export default function Footer() {
   return (
     <footer className="px-4 pt-12 pb-8">
       <div className="glass-card rounded-2xl p-8 max-w-lg mx-auto text-center space-y-6">
-        <h2 className="text-2xl font-bold text-foreground tracking-tight">SUBZERO MD</h2>
+        <h2 className="text-2xl font-bold text-foreground tracking-tight">RIDZ CODER /></h2>
         <p className="text-sm text-muted-foreground leading-relaxed max-w-sm mx-auto">
-          Advanced WhatsApp bot solution with powerful automation, secure connections, and seamless integrations.
+     This is my first portfolio website, built entirely for myself using pure TypeScript. From layout to logic, everything is hand-coded to reflect my skills and style. Hope you like it! 
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-3">
+   
           <a
-            href="https://pair.subzero.gleeze.com/pair"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-primary/10 border border-primary/20 text-sm font-medium text-primary hover:bg-primary/20 transition-colors"
-          >
-            <KeyRound className="size-4" />
-            Pair Code
-          </a>
-          <a
-            href="https://pair.subzero.gleeze.com/qr"
+            href="https://ridzcoder.zone.id/login"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-primary/10 border border-primary/20 text-sm font-medium text-primary hover:bg-primary/20 transition-colors"
           >
             <QrCode className="size-4" />
-            QR Code
+            Admin Login 
           </a>
           <a
-            href="https://github.com/mrfrankofcc/SUBZERO-MD"
+            href="https://github.com/ridzcoder/NEMESIS-MD"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-primary/10 border border-primary/20 text-sm font-medium text-primary hover:bg-primary/20 transition-colors"
@@ -41,7 +33,7 @@ export default function Footer() {
 
         <div className="flex flex-wrap items-center justify-center gap-4 text-xs">
           <a
-            href="https://github.com/mrfrankofcc/SUBZERO-MD/issues"
+            href="https://github.com/ridzcoder/NEMESIS-MD/issues"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -50,7 +42,7 @@ export default function Footer() {
           </a>
           <span className="text-border">•</span>
           <a
-            href="https://wa.me/263719647303"
+            href="https://wa.me/255611199851"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -59,7 +51,7 @@ export default function Footer() {
           </a>
           <span className="text-border">•</span>
           <a
-            href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"
+            href="https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -69,14 +61,14 @@ export default function Footer() {
         </div>
 
         <p className="text-xs text-muted-foreground">
-          © 2026 SUBZERO MD • Built by{' '}
+          © 2026 Ridz Coder • Built 🌋 by{' '}
           <a
-            href="https://github.com/mrfrankofcc"
+            href="https://github.com/ridzcoder"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary font-medium hover:underline"
           >
-            Mr Frank OFC
+            Ridz coder X Theron
           </a>
         </p>
       </div>
