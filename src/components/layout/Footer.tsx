@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="px-4 pt-12 pb-8">
       <div className="glass-card rounded-2xl p-8 max-w-lg mx-auto text-center space-y-6">
-        <h2 className="text-2xl font-bold text-foreground tracking-tight">RIDZ CODER /></h2>
+        <h2 className="text-2xl font-bold text-foreground tracking-tight">RIDZ CODER</h2>
         <p className="text-sm text-muted-foreground leading-relaxed max-w-sm mx-auto">
      This is my first portfolio website, built entirely for myself using pure TypeScript. From layout to logic, everything is hand-coded to reflect my skills and style. Hope you like it! 
         </p>
