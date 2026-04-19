@@ -36,6 +36,5 @@ export const DEFAULT_PROJECTS: Project[] = [
     sortOrder: 3,
     createdAt: '2024-03-10',
     updatedAt: '2024-03-10',
-  },
-  
+  }
 ];
